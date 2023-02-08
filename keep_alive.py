@@ -5,7 +5,7 @@ app = Flask("")
 
 
 def run():
-    app.run(host="0.0.0.0", port=3000)
+    app.run(host="18.118.130.176", port=3000)
 
 
 def keep_alive():
